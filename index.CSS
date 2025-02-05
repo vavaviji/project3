@@ -1,0 +1,128 @@
+.sec2{
+    background-image: url(back\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+    background-position: center;
+    
+}
+.master{
+    background-color: rgba(0, 0, 0, 0.543);
+    padding: 100px 0;
+
+}
+
+.sec3 {
+    background-color: black;
+    height: 200px;
+}
+.line{
+    background-color: white;
+    height: 2px;
+    width: 200px;
+  
+}
+.inbox1{
+    padding: 30px 0;
+}
+.inbox3{
+    padding: 30px 0;
+}
+.sec4{
+    background-image: url(SMOKEHOUSE\ IMAGES.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.local{
+    background-color: rgba(0, 0, 0, 0.543); 
+    padding: 50px 0;
+}
+.sec5{
+    background-image: url(catering\ IMAGES.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.543);
+    padding: 50px 0;
+    
+}
+.sec6{
+    background-image: url(eat\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    .inbox1{
+        width: 10px;
+        height: 10px;
+    }
+    .line{
+        background-color:black;
+        height: 2px;
+        width: 200px;
+
+    }
+}
+
+.eat{
+    background-color: rgba(250, 243, 243, 0.59);
+    padding: 30px 0;
+
+}
+.sec7{
+    background-image: url(RUB\ R\ 4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.rub{
+    background-color: rgba(0, 0, 0, 0.741);
+    padding: 30px;
+}
+.sec8{
+    background-image: url(visit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.model{
+    background-color: rgba(0, 0, 0, 0.741);
+    padding: 20px;
+}
+.sec9{
+    background-image: url(visit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.happy{
+    background-color: rgba(250, 84, 7, 0.616);
+    padding: 20px;
+
+}
+.sec10{
+    background-image: url(john-rivers_900xx6000-3381-0-137.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.COOK{
+    background-color: rgba(97, 94, 93, 0.74);
+    padding: 200px;
+
+}
+.sec11 {
+    background-color: black;
+    height: 350px;
+}
+.sec12 {
+    background-color: black;
+    height: 100px;
+    
+}
+
